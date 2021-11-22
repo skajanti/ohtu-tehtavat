@@ -1,0 +1,23 @@
+[[package]]
+name = "jsonpickle"
+version = "2.0.0"
+description = "Python library for serializing any arbitrary object graph into JSON"
+category = "main"
+optional = false
+python-versions = ">=2.7"
+
+[package.extras]
+docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
+testing = ["coverage (<5)", "pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pytest-black-multipy", "pytest-cov", "ecdsa", "feedparser", "numpy", "pandas", "pymongo", "sklearn", "sqlalchemy", "enum34", "jsonlib"]
+"testing.libs" = ["demjson", "simplejson", "ujson", "yajl"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "3.10"
+content-hash = "b28130bd48409d076caa9db4f84e88e3539c36176d4f459af9edabe33e5a902f"
+
+[metadata.files]
+jsonpickle = [
+    {file = "jsonpickle-2.0.0-py2.py3-none-any.whl", hash = "sha256:c1010994c1fbda87a48f8a56698605b598cb0fc6bb7e7927559fc1100e69aeac"},
+    {file = "jsonpickle-2.0.0.tar.gz", hash = "sha256:0be49cba80ea6f87a168aa8168d717d00c6ca07ba83df3cec32d3b30bfe6fb9a"},
+]
