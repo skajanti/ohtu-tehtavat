@@ -1,0 +1,3 @@
+Start, Stop, Continue, More of, Less of Wheel: Piirrä ympyrä ja jaa se viiteen osaan: "start", "stop", "contunue", "more of", "less of". Anna näiden teemaisia kommentteja ja jaottele ne näihin kategorioihin. Kesto lyhyt.
+
+Glad, Sad, Mad: Korteille kirjoitetaan hyviä tai huonoja havaintoja sprintistä. Kortit selitetään mutta niistä ei vielä keskustella. Kortit sitten jaoitellaan strategian nimen mukaisiin tunnekategorioihin ja ryhmitellään edelleen samanlaisuuden mukaan. Sitten äänestetään kortteja, joiden asiaan puututaan. Kesto jopa tunti.
